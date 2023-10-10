@@ -1,1 +1,1 @@
-২৪. তোমার কাছে: ৮০০০০ টাকার বেশি হলে তুমি mac কিনবে, ৬০ টাকার বেশি হলে gaming ল্যাপটপ কিনবে, ৪০ হাজার টাকার বেশি হলে lenovo yoga কম্পিউটার কিনবে , ২০ হাজার টাকার বেশি হলে পুরান ল্যাপটপ কিনবে। না হয় তুমি মোবাইল দিয়ে কাজ চালাবে। 
+24. To you: if more than 80000 rupees you will buy mac, if more than 60000 rupees you will buy gaming laptop, if more than 40 thousand rupees you will buy lenovo yoga computer, if more than 20 thousand rupees you will buy old laptop. Otherwise you will work with mobile.

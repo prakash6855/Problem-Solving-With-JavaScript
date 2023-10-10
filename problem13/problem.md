@@ -1,5 +1,3 @@
+Show this as output 39 times.
 
-
-আসকে আমার মন ভালো নেই এই কথা ৩৯ বার আউটপুট হিসেবে দেখাও।
-
-`আসকে আমার মন ভালো নেই` show this text 39 times
+"Come on, I don't feel good" show this text 39 times.
